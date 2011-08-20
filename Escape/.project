@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Escape</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.flexnature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] Flint_3_0_1_src</name>
+			<type>2</type>
+			<location>C:/Users/pdyxs/Documents/ludumdare/libraries/Flint_3_0_1_src</location>
+		</link>
+		<link>
+			<name>[source path] Source</name>
+			<type>2</type>
+			<location>C:/Users/pdyxs/Documents/ludumdare/libraries/Box2dFlash/Source</location>
+		</link>
+		<link>
+			<name>[source path] greensock-as3</name>
+			<type>2</type>
+			<location>C:/Users/pdyxs/Documents/ludumdare/libraries/greensock-as3</location>
+		</link>
+	</linkedResources>
+</projectDescription>

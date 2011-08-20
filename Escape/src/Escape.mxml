@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009"
+			   xmlns:s="library://ns.adobe.com/flex/spark"
+			   xmlns:mx="library://ns.adobe.com/flex/mx"
+			   xmlns:flatland="com.pdyxs.ld21.flatland.*"
+			   minWidth="800" minHeight="600"
+			   frameRate="30" creationComplete="created(event)">
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	<fx:Script>
+		<![CDATA[
+			import com.pdyxs.ld21.flatland.tools.Input;
+			public function created(e:Event):void
+			{
+			}
+		]]>
+	</fx:Script>
+	
+	<flatland:World id="world" x="0" y="0" width="800" height="600"/>
+</s:Application>
